@@ -1,16 +1,16 @@
-# pertemuan_4
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="200" alt="Dart Logo"> </p>
 
-A new Flutter project.
+# Register Page
+![Screenshot_1745401075](https://github.com/user-attachments/assets/7e2671b8-ca7a-4309-8a27-62f9e24fbe16)
 
-## Getting Started
+# Login Page
+![Screenshot_1745401081](https://github.com/user-attachments/assets/8b15436b-8ae6-4036-9394-39eac46ada2f)
 
-This project is a starting point for a Flutter application.
+# Home Page
+![Screenshot_1745401107](https://github.com/user-attachments/assets/243b290a-5425-4a1a-9e56-a5adbccbf2f5)
 
-A few resources to get you started if this is your first Flutter project:
+#Order Page
+![Screenshot_1745401125](https://github.com/user-attachments/assets/51925bc7-f1f7-48fb-a9ed-6a20d03cbd39)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Detail Order Page
+![Screenshot_1745401128](https://github.com/user-attachments/assets/e6b99b95-3ce4-41e2-81f1-0240b4105b58)
